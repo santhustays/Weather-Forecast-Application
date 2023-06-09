@@ -1,4 +1,4 @@
-# Weather-Forecast-Application
+# Weather-Forecast-Application🌥️🌧️
 A simple weather app that gets your location and displays the forecast for the current day and a few days after that.
 
 API : OpenWeatherMap
